@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\temp\\dev-habit\\DevHabit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\dtos\\habits\\habitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\dtos\\habits\\habitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\entities\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\entities\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\dtos\\habits\\habitmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\dtos\\habits\\habitmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\dtos\\habits\\updatehabitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\dtos\\habits\\updatehabitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\dtos\\habits\\createhabitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\dtos\\habits\\createhabitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\controllers\\habitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,40 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HabitDto.cs",
-              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DTOs\\Habits\\HabitDto.cs",
-              "RelativeDocumentMoniker": "DevHabit.Api\\DTOs\\Habits\\HabitDto.cs",
-              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DTOs\\Habits\\HabitDto.cs",
-              "RelativeToolTip": "DevHabit.Api\\DTOs\\Habits\\HabitDto.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAIwCsAAAAmAAAAAAAAAA==",
+              "Title": "HabitMappings.cs",
+              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DTOs\\Habits\\HabitMappings.cs",
+              "RelativeDocumentMoniker": "DevHabit.Api\\DTOs\\Habits\\HabitMappings.cs",
+              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DTOs\\Habits\\HabitMappings.cs*",
+              "RelativeToolTip": "DevHabit.Api\\DTOs\\Habits\\HabitMappings.cs*",
+              "ViewState": "AgIAAEkAAAAAAAAAAAD4v2MAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T07:56:18.523Z",
+              "WhenOpened": "2025-05-02T08:53:01.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Habit.cs",
-              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Entities\\Habit.cs",
-              "RelativeDocumentMoniker": "DevHabit.Api\\Entities\\Habit.cs",
-              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Entities\\Habit.cs",
-              "RelativeToolTip": "DevHabit.Api\\Entities\\Habit.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDEAAAAdAAAAAAAAAA==",
+              "Title": "UpdateHabitDto.cs",
+              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DTOs\\Habits\\UpdateHabitDto.cs",
+              "RelativeDocumentMoniker": "DevHabit.Api\\DTOs\\Habits\\UpdateHabitDto.cs",
+              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DTOs\\Habits\\UpdateHabitDto.cs",
+              "RelativeToolTip": "DevHabit.Api\\DTOs\\Habits\\UpdateHabitDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T07:56:06.079Z",
+              "WhenOpened": "2025-05-02T08:50:45.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HabitMappings.cs",
-              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DTOs\\Habits\\HabitMappings.cs",
-              "RelativeDocumentMoniker": "DevHabit.Api\\DTOs\\Habits\\HabitMappings.cs",
-              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DTOs\\Habits\\HabitMappings.cs",
-              "RelativeToolTip": "DevHabit.Api\\DTOs\\Habits\\HabitMappings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Title": "CreateHabitDto.cs",
+              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DTOs\\Habits\\CreateHabitDto.cs",
+              "RelativeDocumentMoniker": "DevHabit.Api\\DTOs\\Habits\\CreateHabitDto.cs",
+              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DTOs\\Habits\\CreateHabitDto.cs",
+              "RelativeToolTip": "DevHabit.Api\\DTOs\\Habits\\CreateHabitDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T07:34:09.977Z",
+              "WhenOpened": "2025-05-02T08:49:57.777Z",
               "EditorCaption": ""
             },
             {
@@ -75,9 +75,9 @@
               "RelativeDocumentMoniker": "DevHabit.Api\\Controllers\\HabitsController.cs",
               "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Controllers\\HabitsController.cs",
               "RelativeToolTip": "DevHabit.Api\\Controllers\\HabitsController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAxwEIAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAxwFIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T07:33:31.607Z",
+              "WhenOpened": "2025-05-02T08:46:10.336Z",
               "EditorCaption": ""
             }
           ]

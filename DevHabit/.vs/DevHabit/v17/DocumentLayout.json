@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\temp\\dev-habit\\DevHabit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\temp\\dev-habit\\devhabit\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\migrations\\application\\20250430033707_add_habits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\migrations\\application\\20250430033707_add_habits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\migrations\\application\\20250506082553_add_tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\migrations\\application\\20250506082553_add_tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\dtos\\tags\\tagmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\dtos\\tags\\tagmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\controllers\\habitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\controllers\\habitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50916E0F-C20F-41D4-A558-A943E3BC9AA3}|Solution Items{50916E0F-C20F-41D4-A558-A943E3BC9AA3}|C:\\temp\\dev-habit\\DevHabit\\Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{50916E0F-C20F-41D4-A558-A943E3BC9AA3}|Solution Items{50916E0F-C20F-41D4-A558-A943E3BC9AA3}|solutionrelative:Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HabitsController.cs",
-              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Controllers\\HabitsController.cs",
-              "RelativeDocumentMoniker": "DevHabit.Api\\Controllers\\HabitsController.cs",
-              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Controllers\\HabitsController.cs",
-              "RelativeToolTip": "DevHabit.Api\\Controllers\\HabitsController.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAzwHUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T06:08:29.298Z",
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwC0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-06T08:35:47.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Program.cs",
-              "RelativeDocumentMoniker": "DevHabit.Api\\Program.cs",
-              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Program.cs",
-              "RelativeToolTip": "DevHabit.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBIAAAAYAAAAAAAAAA==",
+              "Title": "20250430033707_Add_Habits.cs",
+              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Migrations\\Application\\20250430033707_Add_Habits.cs",
+              "RelativeDocumentMoniker": "DevHabit.Api\\Migrations\\Application\\20250430033707_Add_Habits.cs",
+              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Migrations\\Application\\20250430033707_Add_Habits.cs",
+              "RelativeToolTip": "DevHabit.Api\\Migrations\\Application\\20250430033707_Add_Habits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T06:06:55.324Z",
+              "WhenOpened": "2025-05-06T08:30:06.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Directory.Packages.props",
-              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\Directory.Packages.props",
-              "RelativeDocumentMoniker": "Directory.Packages.props",
-              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\Directory.Packages.props",
-              "RelativeToolTip": "Directory.Packages.props",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-05-06T06:05:27.045Z",
+              "Title": "20250506082553_Add_Tags.cs",
+              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Migrations\\Application\\20250506082553_Add_Tags.cs",
+              "RelativeDocumentMoniker": "DevHabit.Api\\Migrations\\Application\\20250506082553_Add_Tags.cs",
+              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Migrations\\Application\\20250506082553_Add_Tags.cs",
+              "RelativeToolTip": "DevHabit.Api\\Migrations\\Application\\20250506082553_Add_Tags.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:28:26.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Dockerfile",
-              "RelativeDocumentMoniker": "DevHabit.Api\\Dockerfile",
-              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Dockerfile",
-              "RelativeToolTip": "DevHabit.Api\\Dockerfile",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-05T09:44:48.437Z",
+              "Title": "TagMappings.cs",
+              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DTOs\\Tags\\TagMappings.cs",
+              "RelativeDocumentMoniker": "DevHabit.Api\\DTOs\\Tags\\TagMappings.cs",
+              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DTOs\\Tags\\TagMappings.cs",
+              "RelativeToolTip": "DevHabit.Api\\DTOs\\Tags\\TagMappings.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:21:43.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HabitsController.cs",
+              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Controllers\\HabitsController.cs",
+              "RelativeDocumentMoniker": "DevHabit.Api\\Controllers\\HabitsController.cs",
+              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Controllers\\HabitsController.cs",
+              "RelativeToolTip": "DevHabit.Api\\Controllers\\HabitsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:58:48.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "DevHabit.Api\\Controllers\\TagsController.cs",
+              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "DevHabit.Api\\Controllers\\TagsController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAlwEIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:57:05.518Z",
               "EditorCaption": ""
             }
           ]

@@ -16,6 +16,7 @@ builder.Services
     {
         options.ReturnHttpNotAcceptable = true;
     })
+    .AddNewtonsoftJson()
     .AddXmlSerializerFormatters();
 
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi

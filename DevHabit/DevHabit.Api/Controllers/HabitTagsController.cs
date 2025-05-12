@@ -74,9 +74,9 @@ public class HabitTagsController(ApplicationDbContext dbContext) : ControllerBas
     // tags
     // DELETE: habits/:id/tags/:tagId
     [HttpDelete("{tagId}")]
-    public async Task<ActionResult> DeleteHabitTag(string id, string tagId)
+    public async Task<ActionResult> DeleteHabitTag(string habitId, string tagId)
     {
-        HabitTag? habitTag = await dbContext.HabitTags.SingleOrDefaultAsync(ht => ht.HabitId == id && ht.TagId == tagId);
+        HabitTag? habitTag = await dbContext.HabitTags.SingleOrDefaultAsync(ht => ht.HabitId == habitId && ht.TagId == tagId);
         if (habitTag is null)
         {
             return NotFound();

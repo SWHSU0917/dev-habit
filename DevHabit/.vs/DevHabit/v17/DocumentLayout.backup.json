@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\temp\\dev-habit\\DevHabit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\temp\\dev-habit\\devhabit\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,30 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Dockerfile",
               "RelativeDocumentMoniker": "DevHabit.Api\\Dockerfile",
               "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Dockerfile",
               "RelativeToolTip": "DevHabit.Api\\Dockerfile",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-05-12T08:34:37.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
               "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\docker-compose.yml",
               "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAoAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-05-12T08:27:59.307Z",
               "EditorCaption": ""

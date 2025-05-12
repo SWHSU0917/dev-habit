@@ -38,5 +38,9 @@ public sealed class HabitConfiguration : IEntityTypeConfiguration<Habit>
 
         // 設定 Milestone 為擁有型實體，其屬性會直接嵌入 Habit 資料表中
         builder.OwnsOne(h => h.Milestone);
+
+        builder.HasMany(h => h.Tags)
+            .WithMany()
+            .UsingEntity<HabitTag>();
     }
 }

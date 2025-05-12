@@ -11,11 +11,12 @@ EXPOSE 8081
 # 此階段是用來組建服務專案
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 ARG BUILD_CONFIGURATION=Release
+#ENV DOTNET_SYSTEM_NET_HTTP_USESOCKETSHTTPHANDLER=0
 WORKDIR /src
 COPY ["Directory.Packages.props", "."]
 COPY ["Directory.Build.props", "."]
 COPY ["DevHabit.Api/DevHabit.Api.csproj", "DevHabit.Api/"]
-RUN dotnet restore "./DevHabit.Api/DevHabit.Api.csproj"
+RUN dotnet restore "./DevHabit.Api/DevHabit.Api.csproj" 
 COPY . .
 WORKDIR "/src/DevHabit.Api"
 RUN dotnet build "./DevHabit.Api.csproj" -c $BUILD_CONFIGURATION -o /app/build

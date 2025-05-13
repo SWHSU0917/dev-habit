@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\temp\\dev-habit\\DevHabit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\controllers\\habitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\controllers\\habitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\devhabit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\devhabit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\middleware\\validationexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\middleware\\validationexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Program.cs",
-              "RelativeDocumentMoniker": "DevHabit.Api\\Program.cs",
-              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Program.cs",
-              "RelativeToolTip": "DevHabit.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBwAAABjAAAAAAAAAA==",
+              "Title": "HabitsController.cs",
+              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Controllers\\HabitsController.cs",
+              "RelativeDocumentMoniker": "DevHabit.Api\\Controllers\\HabitsController.cs",
+              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Controllers\\HabitsController.cs",
+              "RelativeToolTip": "DevHabit.Api\\Controllers\\HabitsController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAxwEcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T08:18:50.133Z",
+              "WhenOpened": "2025-05-13T08:45:28.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DevHabit.Api",
-              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DevHabit.Api.csproj",
-              "RelativeDocumentMoniker": "DevHabit.Api\\DevHabit.Api.csproj",
-              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DevHabit.Api.csproj",
-              "RelativeToolTip": "DevHabit.Api\\DevHabit.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAoAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-13T08:16:33.437Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Program.cs",
+              "RelativeDocumentMoniker": "DevHabit.Api\\Program.cs",
+              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Program.cs",
+              "RelativeToolTip": "DevHabit.Api\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:44:21.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TagsController.cs",
-              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Controllers\\TagsController.cs",
-              "RelativeDocumentMoniker": "DevHabit.Api\\Controllers\\TagsController.cs",
-              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Controllers\\TagsController.cs",
-              "RelativeToolTip": "DevHabit.Api\\Controllers\\TagsController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAADwv1AAAAA7AAAAAAAAAA==",
+              "Title": "ValidationExceptionHandler.cs",
+              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Middleware\\ValidationExceptionHandler.cs",
+              "RelativeDocumentMoniker": "DevHabit.Api\\Middleware\\ValidationExceptionHandler.cs",
+              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Middleware\\ValidationExceptionHandler.cs",
+              "RelativeToolTip": "DevHabit.Api\\Middleware\\ValidationExceptionHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T08:10:16.514Z",
+              "WhenOpened": "2025-05-13T08:34:56.374Z",
               "EditorCaption": ""
             }
           ]

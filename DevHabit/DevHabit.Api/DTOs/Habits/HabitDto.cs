@@ -3,18 +3,6 @@ using Newtonsoft.Json;
 
 namespace DevHabit.Api.DTOs.Habits;
 
-public sealed record HabitsCollectionDto
-{
-    public List<HabitDto> Data { get; init; }
-}
-
-//public sealed record HabitWithTagsDto : HabitDto
-//{
-//    [JsonProperty(Order = int.MaxValue)]
-//    public required string[] Tags { get; init; }
-//}
-
-
 public sealed record HabitDto
 {
     public required string Id { get; init; }

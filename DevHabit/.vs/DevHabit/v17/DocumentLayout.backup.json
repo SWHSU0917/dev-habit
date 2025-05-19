@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\temp\\dev-habit\\DevHabit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\services\\sorting\\sortmappingprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\services\\sorting\\sortmappingprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\services\\sorting\\queryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\services\\sorting\\queryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\controllers\\habitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\controllers\\habitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\dtos\\common\\paginationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\dtos\\common\\paginationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SortMappingProvider.cs",
-              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Services\\Sorting\\SortMappingProvider.cs",
-              "RelativeDocumentMoniker": "DevHabit.Api\\Services\\Sorting\\SortMappingProvider.cs",
-              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Services\\Sorting\\SortMappingProvider.cs",
-              "RelativeToolTip": "DevHabit.Api\\Services\\Sorting\\SortMappingProvider.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAUwCQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:59:58.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QueryableExtensions.cs",
-              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Services\\Sorting\\QueryableExtensions.cs",
-              "RelativeDocumentMoniker": "DevHabit.Api\\Services\\Sorting\\QueryableExtensions.cs",
-              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Services\\Sorting\\QueryableExtensions.cs",
-              "RelativeToolTip": "DevHabit.Api\\Services\\Sorting\\QueryableExtensions.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwBcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:50:10.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "HabitsController.cs",
               "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Controllers\\HabitsController.cs",
               "RelativeDocumentMoniker": "DevHabit.Api\\Controllers\\HabitsController.cs",
               "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Controllers\\HabitsController.cs",
               "RelativeToolTip": "DevHabit.Api\\Controllers\\HabitsController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA8wCMAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:43:27.292Z",
+              "WhenOpened": "2025-05-19T08:48:30.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaginationResult.cs",
+              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DTOs\\Common\\PaginationResult.cs",
+              "RelativeDocumentMoniker": "DevHabit.Api\\DTOs\\Common\\PaginationResult.cs",
+              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DTOs\\Common\\PaginationResult.cs",
+              "RelativeToolTip": "DevHabit.Api\\DTOs\\Common\\PaginationResult.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:47:34.398Z",
               "EditorCaption": ""
             }
           ]

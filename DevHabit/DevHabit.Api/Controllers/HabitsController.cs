@@ -1,5 +1,6 @@
 ﻿using System.Linq.Expressions;
 using DevHabit.Api.Database;
+using DevHabit.Api.DTOs.Common;
 using DevHabit.Api.DTOs.Habits;
 using DevHabit.Api.Entities;
 using DevHabit.Api.Services.Sorting;
@@ -17,7 +18,7 @@ public sealed class HabitsController(ApplicationDbContext dbContext) : Controlle
 {
     
     [HttpGet]
-    public async Task<ActionResult<HabitsCollectionDto>> GetHabits(
+    public async Task<ActionResult<PaginationResult<HabitDto>>> GetHabits(
         [FromQuery] HabitsQueryParameters query,
         SortMappingProvider sortMappingProvider)
     {
@@ -32,7 +33,8 @@ public sealed class HabitsController(ApplicationDbContext dbContext) : Controlle
 
         SortMapping[] sortMappings = sortMappingProvider.GetMappings<HabitDto, Habit>();
 
-        List<HabitDto> habits = await dbContext
+        // 建立查詢條件：根據使用者輸入的搜尋、類型與狀態過濾資料（尚未執行查詢）
+        IQueryable<HabitDto> habitsQuery = dbContext
             .Habits
             .Where(h => query.Search == null ||
                                 h.Name.ToLower().Contains(query.Search) ||
@@ -40,15 +42,11 @@ public sealed class HabitsController(ApplicationDbContext dbContext) : Controlle
             .Where(h => query.Type == null || h.Type == query.Type)
             .Where(h => query.Status == null || h.Status == query.Status)
             .ApplySort(query.Sort, sortMappings)
-            .Select(HabitQueries.ProjectToDto())
-            .ToListAsync();
+            .Select(HabitQueries.ProjectToDto());      // 將資料從實體轉換成 DTO（資料傳輸物件）
 
-        var habitsCollectionDto = new HabitsCollectionDto
-        {
-            Data = habits
-        };
+        var paginationResult = await PaginationResult<HabitDto>.CreateAsync(habitsQuery, query.Page, query.PageSize);
 
-        return Ok(habitsCollectionDto);
+        return Ok(paginationResult);
     }
 
     [HttpGet("{id}")]
@@ -74,13 +72,6 @@ public sealed class HabitsController(ApplicationDbContext dbContext) : Controlle
         CreateHabitDto createHabitDto,
         IValidator<CreateHabitDto> validator)
     {
-
-        //ValidationResult validationResult = await validator.ValidateAsync(createHabitDto);
-        //if (!validationResult.IsValid)
-        //{
-        //    return BadRequest(validationResult.ToDictionary());
-        //}
-
         await validator.ValidateAndThrowAsync(createHabitDto);
 
         Habit habit = createHabitDto.ToEntity();

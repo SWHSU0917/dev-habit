@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\dtos\\common\\paginationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\dtos\\common\\paginationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\services\\datashapingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\services\\datashapingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|c:\\temp\\dev-habit\\devhabit\\devhabit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B883F-22F5-4FF3-A8F6-363BC9B54796}|DevHabit.Api\\DevHabit.Api.csproj|solutionrelative:devhabit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Program.cs",
+              "RelativeDocumentMoniker": "DevHabit.Api\\Program.cs",
+              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Program.cs",
+              "RelativeToolTip": "DevHabit.Api\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:28:39.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataShapingService.cs",
+              "DocumentMoniker": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Services\\DataShapingService.cs",
+              "RelativeDocumentMoniker": "DevHabit.Api\\Services\\DataShapingService.cs",
+              "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Services\\DataShapingService.cs",
+              "RelativeToolTip": "DevHabit.Api\\Services\\DataShapingService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAywCQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:15:22.977Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "DevHabit.Api\\Controllers\\HabitsController.cs",
               "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\Controllers\\HabitsController.cs",
               "RelativeToolTip": "DevHabit.Api\\Controllers\\HabitsController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T08:48:30.248Z",
               "EditorCaption": ""
@@ -41,7 +75,7 @@
               "RelativeDocumentMoniker": "DevHabit.Api\\DTOs\\Common\\PaginationResult.cs",
               "ToolTip": "C:\\temp\\dev-habit\\DevHabit\\DevHabit.Api\\DTOs\\Common\\PaginationResult.cs",
               "RelativeToolTip": "DevHabit.Api\\DTOs\\Common\\PaginationResult.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAIwBwAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T08:47:34.398Z",
               "EditorCaption": ""
